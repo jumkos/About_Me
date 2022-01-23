@@ -10,3 +10,4 @@ From creating this app i learn about:</br>
 -Data Binding</br>
 
 
+![AboutMe](https://user-images.githubusercontent.com/15187211/150682110-4f1293a2-c036-4b0f-acde-69edb0999bfd.gif)
