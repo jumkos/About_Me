@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Kris Hendrawan</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Kris Hendrwan is a 26-year-old government politician who enjoys painting, jigsaw puzzles and hockey. He is inspiring and entertaining, but can also be very selfish and a  bit unkind.
+        \nHe is an Indonesia Christian who defines himself as straight. He has a degree in philosophy, politics and economics. He has a severe phobia of  snakes, and  is obsessed with  over\-knee socks.
+        \nPhysically, Kris is in pretty good shape. He is average\-height with olive skin, brown hair and black eyes. He has a pair of socks on his lower back.
+        \nHe grew up in a working class neighbourhood. His parents separated when he was small, but remained friends and provided a happy, stable home.
+        \nHe is currently single. His most recent romance was with an electrician called Rhianna Kimberley Myers,  who was 9 years older than him. They broke up because Kris got fed up of being taken advantage of.
+        \nKris\'s best friend is a government politician called Gina O\'Doherty. They get on well most of the time. He also hangs around with Elle Moss and Wesley Reynolds. They enjoy worship together.\n\n </string>
+    <string name="what_nickname">What is Your Nickname</string>
+    <string name="done">Done</string>
+</resources>
